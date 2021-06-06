@@ -1,7 +1,5 @@
 
-Pratik Thombre <pratikpthombre949@gmail.com>
-3:59 PM (0 minutes ago)
-to me
+
 
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 
